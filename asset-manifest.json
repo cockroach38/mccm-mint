@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mccm-mint/static/css/main.073c9b0a.css",
-    "main.js": "/mccm-mint/static/js/main.d19149dc.js",
-    "index.html": "/mccm-mint/index.html",
-    "main.073c9b0a.css.map": "/mccm-mint/static/css/main.073c9b0a.css.map",
-    "main.d19149dc.js.map": "/mccm-mint/static/js/main.d19149dc.js.map"
+    "main.css": "/mccm_mint/static/css/main.073c9b0a.css",
+    "main.js": "/mccm_mint/static/js/main.d19149dc.js",
+    "index.html": "/mccm_mint/index.html",
+    "main.073c9b0a.css.map": "/mccm_mint/static/css/main.073c9b0a.css.map",
+    "main.d19149dc.js.map": "/mccm_mint/static/js/main.d19149dc.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
